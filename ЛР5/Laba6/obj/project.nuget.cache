@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1kecnftyoEuYGRFATbzsbPC4ylS1F7ogX91du/92pb6SZ+ercxOkma1e4nydiZ+i2QrwVae0n8OA6976X0xAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\ShlackStroyShop-main\\ShlackStroyShop-main\\Laba6\\Laba6\\Laba6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
